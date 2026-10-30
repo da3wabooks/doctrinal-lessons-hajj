@@ -11,3 +11,17 @@
 
 ## المواضيع
 العقيدة الإسلامية, فقه الحج, التربية الإيمانية
+
+## روابط الكتاب
+
+- [المصدر الرسمي للحقوق](https://www.al-badr.net/ebook/16)
+- [GitHub](https://github.com/da3wabooks/doctrinal-lessons-hajj)
+- [Internet Archive](https://archive.org/details/akida-hajj-badr)
+- [Zenodo](https://zenodo.org/records/23806969)
+- [Telegram](https://t.me/arabicfreebooks/2093)
+- [Blogger](https://isalamicarabicbooks.blogspot.com/2026/10/blog-post_384.html)
+- [Hugging Face — نسخة الكتاب](https://huggingface.co/datasets/Youssef838/arabic-islamic-book-263)
+- [Hugging Face — المجموعة](https://huggingface.co/datasets/Youssef838/arabic-islamic-books)
+- [Kaggle — نسخة الكتاب](https://www.kaggle.com/datasets/youssefessam838/arabic-islamic-book-263)
+- [Kaggle — المجموعة](https://www.kaggle.com/datasets/youssefessam838/arabic-islamic-books)
+- [صفحة الكتاب على الموقع](https://da3wabooks.github.io/book/263.html)
