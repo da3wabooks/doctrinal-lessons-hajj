@@ -16,7 +16,7 @@
 
 - [المصدر الرسمي للحقوق](https://www.al-badr.net/ebook/16)
 - [GitHub](https://github.com/da3wabooks/doctrinal-lessons-hajj)
-- [Internet Archive](https://archive.org/details/akida-hajj-badr)
+- [Internet Archive](https://archive.org/details/akida-hajj-263)
 - [Zenodo](https://zenodo.org/records/23806969)
 - [Telegram](https://t.me/arabicfreebooks/2093)
 - [Blogger](https://isalamicarabicbooks.blogspot.com/2026/10/blog-post_384.html)
